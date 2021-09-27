@@ -30,3 +30,23 @@
 ```
   git pull
 ```
+
+<br>
+<br>
+
+<h2>If you don't have SASS installed please first download Node from the link below and then run the following command</h2>
+
+Node Download Link (Download the LTS Version)
+https://nodejs.org/en/
+
+Then run this code in the terminal
+
+```
+  npm install sass
+```
+
+<h2>To compile sass in appropriate directory run the following command:<h2>
+
+```
+  sass --watch scss:assets/css/
+```
