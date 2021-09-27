@@ -19,7 +19,7 @@
 5. Push the branch to Github<br>
 
 ```
-  git --set-upstream origin <branch-name>
+  git push --set-upstream origin <branch-name>
   git push
 ```
 
